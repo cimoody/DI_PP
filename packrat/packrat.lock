@@ -1,0 +1,18 @@
+PackratFormat: 1.4
+PackratVersion: 0.4.0.12
+RVersion: 3.1.1
+Repos: CRAN=http://cran.rstudio.com
+
+Package: chron
+Source: CRAN
+Version: 2.3-47
+Hash: 481c0ac14a7ac27381373c2975a0177e
+
+Package: packrat
+Source: github
+Version: 0.4.0.12
+Hash: e738f79a22521c57fad67a1679302385973cd958
+GithubRepo: packrat
+GithubUsername: rstudio
+GithubRef: v0.98.1000
+GithubSha1: e738f79a22521c57fad67a1679302385973cd958
